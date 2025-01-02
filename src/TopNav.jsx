@@ -4,11 +4,12 @@ const TopNav = () => {
   return (
     <nav className="top-nav">
       <div className="nav-logo">
-        <img
+        {/*<img
           src="../public/powertal-logo.svg"
           alt="Company Logo"
           className="logo"
-        />
+        />*/}
+        <h2>PowerTal</h2>
       </div>
       <ul className="nav-links">
         <li>
